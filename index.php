@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-/* changes for branch 2 with tag1.0*/
+/* changes for branch 2 with tag1.1*/
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
